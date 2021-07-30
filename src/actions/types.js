@@ -1,0 +1,5 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const FETCHABOUTUSER = 'FETCHABOUTUSER';
+export const FETCHSTREAMS = 'FETCHSTREAMS';
+export const DELETESTREAMBYID = 'DELETESTREAMBYID';
